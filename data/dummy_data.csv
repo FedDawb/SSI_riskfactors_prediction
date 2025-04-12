@@ -1,0 +1,7 @@
+Patient_ID,Age,BMI,Smoker,Diabetes,Surgery_Duration,Blood_Loss,Antibiotics_Given,RAG_Antenatal,RAG_Intrapartum,Combined_Risk_Score
+1,32,27,No,No,45,300,Yes,Green,Green,Low
+2,41,35,Yes,Yes,70,1200,Yes,Amber,Red,High
+3,29,31,No,No,90,900,No,Green,Amber,Moderate
+4,32,27,No,No,45,300,Yes,Green,Green,Low
+5,41,35,Yes,Yes,70,1200,Yes,Amber,Red,High
+6,29,31,No,No,90,900,No,Green,Amber,Moderate
