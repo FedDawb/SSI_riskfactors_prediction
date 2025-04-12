@@ -162,7 +162,7 @@ If you encounter issues, here are some tips to resolve common problems:
 
 ## Visualization Samples
 Risk Distribution
-<img src="visuals/risk_distribution.png" alt="Risk Distribution" width="80%">
+<img src="visuals/Screenshot 2025-04-12 172826.png">
 RAG Scoring by Category
 <img src="visuals/rag_scores.png" alt="RAG Scores" width="80%">
 
