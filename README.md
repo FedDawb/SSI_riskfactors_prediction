@@ -161,10 +161,16 @@ If you encounter issues, here are some tips to resolve common problems:
 
 
 ## Visualization Samples
-Risk Distribution
+## Patient Dummy Data Table
+<img src="visuals/dummy_data.png">
+
+## Risk Distribution
 <img src="visuals/Screenshot 2025-04-12 172826.png">
-RAG Scoring by Category
-<img src="visuals/rag_scores.png" alt="RAG Scores" width="80%">
+
+## RAG Scoring by Category
+<img src="visuals/RAG_rate.png">
+
+
 
 ##  How It Works
 Data Processing
